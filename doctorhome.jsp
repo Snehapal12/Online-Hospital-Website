@@ -1,4 +1,5 @@
-<%@include file="header.html"%>
+<%@include file="doctorheaderDentist.html"%>
+
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -11,8 +12,7 @@ height:609px;
 <body>
 <br>
 <div style="max-width:100%">
-  <img class="mySlides"  src="welcome.jpg" >
-  <img class="mySlides"  src="admin.PNG" >
+  <img class="mySlides"  src="welcome.jpg" >  
    <img class="mySlides"  src="slide2.png" >
 </div>
 <script>
